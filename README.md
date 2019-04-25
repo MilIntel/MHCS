@@ -1,1 +1,1 @@
-# MHCS
+MHCS ("Mobiele Handhaving & Communicatie Systeem") is een software ontwikkeld voor Nederlandse Intelligence & Recherchebureaus. Het systeem maakt gebruik van Open Data van de overheid, Database gegevens van Intelligence Agencies en andere instanties. De software is niet beschikbaar voor elke willekeurig persoon.
